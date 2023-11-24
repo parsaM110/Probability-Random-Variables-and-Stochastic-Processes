@@ -1,0 +1,2 @@
+- https://en.wikipedia.org/wiki/Correlation#Correlation_matrices
+- https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/
