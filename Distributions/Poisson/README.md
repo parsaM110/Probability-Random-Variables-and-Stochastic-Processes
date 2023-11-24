@@ -1,0 +1,2 @@
+- https://stats.stackexchange.com/questions/376912/how-to-find-correlation-coefficient-when-x-and-y-follows-poisson-distribution
+- https://www.quora.com/If-X-is-a-poisson-distribution-can-you-explain-why-the-random-variable-Y-aX-b-with-positive-values-of-a-and-b-is-not
