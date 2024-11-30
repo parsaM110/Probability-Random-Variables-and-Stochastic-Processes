@@ -10,6 +10,7 @@
 
 ### 7:
 - https://www.math.u-bordeaux.fr/~arichou/exercices-anglais-f1.pdf
-
+- https://www.math.u-bordeaux.fr/~arichou/exercices-f1.pdf
+- https://www.math.u-bordeaux.fr/~arichou/correctionexo13-14TD1.pdf
 additinal question:
 https://www.ceremade.dauphine.fr/~bouchard/pdf/cours/PoissonTd.pdf
