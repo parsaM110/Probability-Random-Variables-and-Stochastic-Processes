@@ -24,3 +24,13 @@ https://www.ceremade.dauphine.fr/~bouchard/pdf/cours/PoissonTd.pdf
 ## Gaussian process:
 - https://www.digilab.co.uk/posts/what-are-gaussian-processes
 - (github project) https://github.com/anarojoecheburua/Gaussian-Processes
+
+
+some other linkes : 
+- https://medium.com/analytics-vidhya/interpreting-posterior-of-gaussian-process-for-regression-1bcfaab8e8aa
+- https://stats.stackexchange.com/questions/228552/covariance-functions-or-kernels-what-exactly-are-they?newreg=b9580bced12b4804a2699128a0677ae6
+- https://github.com/aybchan/gaussianprocess
+- https://scikit-learn.org/1.5/auto_examples/gaussian_process/plot_gpr_prior_posterior.html
+good topic:
+- https://distill.pub/2019/visual-exploration-gaussian-processes/
+- http://www.infinitecuriosity.org/vizgp/
