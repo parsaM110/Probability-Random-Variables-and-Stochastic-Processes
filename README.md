@@ -15,3 +15,7 @@
   
 additinal question:
 https://www.ceremade.dauphine.fr/~bouchard/pdf/cours/PoissonTd.pdf
+
+### Interesting : 
+- malliavin calculus in finance
+- https://moodle.r2.enst.fr/moodle/course/view.php?id=2
