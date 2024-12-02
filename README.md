@@ -19,3 +19,8 @@ https://www.ceremade.dauphine.fr/~bouchard/pdf/cours/PoissonTd.pdf
 ### Interesting : 
 - malliavin calculus in finance
 - https://moodle.r2.enst.fr/moodle/course/view.php?id=2
+
+
+## Gaussian process:
+- https://www.digilab.co.uk/posts/what-are-gaussian-processes
+- (github project) https://github.com/anarojoecheburua/Gaussian-Processes
