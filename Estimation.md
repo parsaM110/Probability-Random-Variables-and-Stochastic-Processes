@@ -5,6 +5,8 @@
 - https://math.stackexchange.com/questions/2063357/find-umvu-estimator-for-frac-mu-sigma
 - https://math.stackexchange.com/questions/2687375/how-to-find-umvue-of-thetak-when-x-1-ldots-x-n-is-a-sample-from-bernoul
 - https://stats.stackexchange.com/questions/404136/find-umvue-of-p3
+- https://www.karlin.mff.cuni.cz/~nagy/NMSA332/NMSA332.pdf
+- https://math.arizona.edu/~jwatkins/sufficiency.pdf
 
 ### some good exercises:
 - https://math.montana.edu/parker/courses/STAT422/HW6_Solutions.pdf
