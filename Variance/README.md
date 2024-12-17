@@ -5,3 +5,8 @@
 
 ## Law of total variance
 - https://en.wikipedia.org/wiki/Law_of_total_variance
+
+# Skewness and Third moment in normal Dist:
+
+- https://math.stackexchange.com/questions/1689281/third-moment-of-standard-normal-random-variable
+- https://www.xycoon.com/nor_uncenteredmoment3.htm
