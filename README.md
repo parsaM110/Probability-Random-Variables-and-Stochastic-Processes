@@ -34,3 +34,5 @@ some other linkes :
 good topic:
 - https://distill.pub/2019/visual-exploration-gaussian-processes/
 - http://www.infinitecuriosity.org/vizgp/
+using Gaussian process for learning tasks:
+- https://mlg.eng.cam.ac.uk/teaching/4f13/2122/gp%20and%20data.pdf
