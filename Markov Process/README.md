@@ -8,7 +8,7 @@
 - https://dspace.mit.edu/bitstream/handle/1721.1/70477/6-042j-fall-2002/contents/lecture-notes/cp10Fsol.pdf
 - https://www.columbia.edu/~ks20/stochastic-I/stochastic-I-MCII.pdf
  
-  ## aperiodic
+## aperiodic
 - https://stats.stackexchange.com/questions/143948/aperiodicity-in-markov-chain
 - https://math.stackexchange.com/questions/311665/proof-a-graph-is-bipartite-if-and-only-if-it-contains-no-odd-cycles
 - https://econtal.perso.math.cnrs.fr/teaching/proba/td3.pdf
@@ -18,3 +18,6 @@
 ## EM method and HMM
 - https://medium.com/@ompramod9921/hidden-markov-models-the-secret-sauce-in-natural-language-processing-63d862ae7b4e
 - https://www.cs.cmu.edu/~epxing/Class/10701-08s/recitation/em-hmm.pdf
+
+## Ergoicity
+- https://math.stackexchange.com/questions/604361/ergodicity-of-this-markov-chain
