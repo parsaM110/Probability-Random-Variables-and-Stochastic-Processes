@@ -13,3 +13,8 @@
 - https://math.stackexchange.com/questions/311665/proof-a-graph-is-bipartite-if-and-only-if-it-contains-no-odd-cycles
 - https://econtal.perso.math.cnrs.fr/teaching/proba/td3.pdf
 - ✅ https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer16/random/randomwalks.pdf
+
+
+## EM method and HMM
+- https://medium.com/@ompramod9921/hidden-markov-models-the-secret-sauce-in-natural-language-processing-63d862ae7b4e
+- https://www.cs.cmu.edu/~epxing/Class/10701-08s/recitation/em-hmm.pdf
