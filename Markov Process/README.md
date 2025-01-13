@@ -21,3 +21,8 @@
 
 ## Ergoicity
 - https://math.stackexchange.com/questions/604361/ergodicity-of-this-markov-chain
+
+## some prolbems by Gallagher
+- https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/5a1f468c5e2da7aa0201a8d8e41dce51_MIT6_262S11_assn03_sol.pdf
+- https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/a256d3b584e71f207587481ab0ee328a_MIT6_262S11_assn10_sol.pdf
+- https://ocw.iti.hr/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/assignments/MIT6_262S11_assn04_sol.pdf
