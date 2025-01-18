@@ -1,7 +1,7 @@
-# MLE question & answer
+## MLE question & answer
 - https://math.montana.edu/parker/courses/STAT422/HW6.pdf
 - https://math.montana.edu/parker/courses/STAT422/HW6_Solutions.pdf
-
+---
 - https://ani.stat.fsu.edu/~debdeep/hw5-5327.pdf
 - https://ani.stat.fsu.edu/~debdeep/hw5-5327soln.pdf
  
